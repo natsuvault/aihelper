@@ -1,1 +1,1 @@
-# wtf
+# Welcome to the app repository
